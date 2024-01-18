@@ -1,1 +1,0 @@
-# Question: 6.Explain how circular linked lists are used in real-world applications.

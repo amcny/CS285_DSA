@@ -1,3 +1,6 @@
+# Question: 1. Write a Python program to create a doubly linked list and insert nodes at the beginning, end, and a specified position. Also, display the list in both forward and backward directions.
+
+
 ''' Here's a kid-friendly explanation of the code: 
 
  Imagine a train with special cars that can hold numbers. 

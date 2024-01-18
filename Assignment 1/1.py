@@ -13,6 +13,7 @@
 
  1. Creating the Train: 
    - We start by making a blueprint for the train cars, called a "Node." This blueprint tells us that each car will have a place for a number, a handle to the front car, and a handle to the back car.
+   
    - Then, we make an empty train, called a "DoublyLinkedList." This train doesn't have any cars yet, so its front and back handles are empty.
 
  2. Adding Cars: 
@@ -20,10 +21,12 @@
       - We build a new car with the number we want to add.
       - If the train is empty, this new car becomes both the front and back of the train.
       - If the train already has cars, we link the new car's front handle to the current front car, and we set the current front car's back handle to the new car. Then, we make the new car the front of the train.
-   -  To add a car to the back:
+  
+    -  To add a car to the back:
       - We build a new car with the number we want to add.
       - If the train is empty, this new car becomes both the front and back of the train (just like adding to the front).
       - If the train already has cars, we link the current back car's front handle to the new car, and we set the new car's back handle to the current back car. Then, we make the new car the back of the train.
+   
    -  To add a car in the middle: 
       - We build a new car with the number we want to add.
       - We find the car that's currently in the position where we want to add the new car.
@@ -32,6 +35,7 @@
  3. Reading the Cars: 
    -  To read the cars from front to back: 
       - We start at the front car and move through the train, reading the numbers in each car, until we reach the back.
+   
    -  To read the cars from back to front: 
       - We start at the back car and move through the train in the opposite direction, reading the numbers in each car, until we reach the front.
 

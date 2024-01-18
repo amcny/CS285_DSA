@@ -24,8 +24,6 @@
 
  That's it! Now you can remove cars from your number train wherever you want! '''
 
-# Virtual Visualization : 
-
 
 class Node:
     def __init__(self, data):

@@ -27,4 +27,4 @@ Here are some of the references I used while working on these assignments:
 To run any assignment solution, navigate to the assignment directory in your terminal and run the following command:
 
 ```bash
-python main.py
+python filname.py

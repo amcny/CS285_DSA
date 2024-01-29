@@ -18,9 +18,7 @@ Each assignment directory contains the assignment problem, my solution, and the 
 
 ## 📖 References
 
-Here are some of the references I used while working on these assignments:
-
-1. **Reference 1**: (Add reference details here)
+(See `Reference/` directory)
 
 ## 🚀 Getting Started
 

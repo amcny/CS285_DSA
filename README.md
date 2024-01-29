@@ -6,7 +6,7 @@ Welcome to my repository for the Data Structures and Algorithms (DSA) course! Th
 
 The course materials include the following books:
 
-1. **Book 1**: (Add book details here)
+1. **Book 1**: [Narasimha Karumanchi - DSA](https://github.com/amcny/CS285_DSA/blob/main/Reference/Narasimha_Karumanchi_Data_Structure_and_Algorithmic_Thinking_with.pdf)
 
 ## 📝 Assignments
 

@@ -18,7 +18,7 @@ Each assignment directory contains the assignment problem, my solution, and the 
 
 ## 📖 References
 
-(See [Reference](https://github.com/amcny/CS285_DSA/tree/main/Reference directory)
+See [Reference](https://github.com/amcny/CS285_DSA/tree/main/Reference) directory
 
 ## 🚀 Getting Started
 
